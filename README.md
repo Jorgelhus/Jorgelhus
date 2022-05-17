@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 <!-- - 📫 How to reach me: ... - ⚡ Fun fact: I love to draw and play guitar / drums
 - 😄 Pronouns: ... -->
-### Hi there, I'm Jorge - aka [Jorgelhus][website] 👋 <img align="right" alt="popos" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+### Hi there, I'm Jorge - aka [Jorgelhus][website] 👋 
 
 
 #### I'm a Husband, Creator, Developer, and a Teacher! :v::grin:
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 :telescope: I’m looking for help to study about coding. <br />
 :speech_balloon: Ask me about anything. <br />
 :dart: 2022 Goals: Get into code as a work.
+
+<img align="right" alt="popos" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> ### I'm a proud PopOS user.
 
 ### Connect with me:
 
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python3" width="26px" src="https://pbs.twimg.com/profile_images/1017313396566290432/H7XJnYZo_400x400.jpg" />
-<img align="left" alt="Linux" width="26px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 
 <br />
