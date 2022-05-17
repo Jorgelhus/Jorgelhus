@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 <!-- - 📫 How to reach me: ... - ⚡ Fun fact: I love to draw and play guitar / drums
 - 😄 Pronouns: ... -->
-### Hi there, I'm Jorge - aka [Jorgelhus][website] 👋 <img align="left" alt="popos" width="26px" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
+### Hi there, I'm Jorge - aka [Jorgelhus][website] 👋 <img align="right" alt="popos" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" />
 
 
 #### I'm a Husband, Creator, Developer, and a Teacher! :v::grin:
