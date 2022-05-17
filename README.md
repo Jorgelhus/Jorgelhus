@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 :speech_balloon: Ask me about anything. <br />
 :dart: 2022 Goals: Get into code as a work.
 
-<img align="left" alt="popos" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> ### I'm a proud PopOS user.
+<img align="left" alt="popos" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> I'm a proud PopOS user.
 
 ### Connect with me:
 
