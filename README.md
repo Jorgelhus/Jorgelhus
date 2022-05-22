@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 #### I'm a Husband, Creator, Developer, and a Teacher! :v::grin:
 :computer: I’m currently working on Purchasing and Supply Chain. <br />
-:notebook: I’m currently learning everything about App Development (REACT) and RPA(UiPath). <br />
-:telescope: I’m looking for help to study about coding. <br />
+:notebook: I’m currently learning everything about App Development (Bubble). <br />
+:telescope: I’m looking for help to study about Development. <br />
 :speech_balloon: Ask me about anything. <br />
-:dart: 2022 Goals: Get into code as a work.
+:dart: 2022 Goals: Become a Developer.
 
 <img align="left" alt="popos" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> I'm a proud PopOS user.
 
@@ -39,11 +39,9 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Python3" width="26px" src="https://pbs.twimg.com/profile_images/1017313396566290432/H7XJnYZo_400x400.jpg" />
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 
